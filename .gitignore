@@ -1,19 +1,2 @@
 # Environnement virtuel uv / Python
 .venv/
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# Dossier des données locales (images et gros fichiers texte)
-data/images/
-data/*.txt
-
-# Sorties, modèles entraînés et graphiques
-outputs/models/*.pth
-outputs/figures/*
-
-# Fichiers système
-.DS_Store
-Thumbs.db
-.vscode/
